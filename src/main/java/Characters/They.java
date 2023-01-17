@@ -20,9 +20,9 @@ public class They extends Characters{
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         if (!super.equals(o)) return false;
-        They mumitroll = (They) o;
-        return Objects.equals(name, mumitroll.name) &&
-                Objects.equals(description, mumitroll.description);
+        They they = (They) o;
+        return Objects.equals(name, they.name) &&
+                Objects.equals(description, they.description);
     }
 
     @Override

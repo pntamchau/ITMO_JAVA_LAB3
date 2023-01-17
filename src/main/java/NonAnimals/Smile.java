@@ -2,6 +2,7 @@ package NonAnimals;
 
 import Interfaces.Nameable;
 import Interfaces.Pronounceable;
+
 import java.util.Objects;
 public class Smile implements Nameable, Pronounceable{
     private String name;

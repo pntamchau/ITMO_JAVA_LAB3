@@ -1,8 +1,9 @@
 package Characters;
 
 import Interfaces.Describable;
-import Interfaces.Pronounceable;
 import Interfaces.Nameable;
+import Interfaces.Pronounceable;
+
 import java.util.Objects;
 public abstract class Characters implements Nameable, Describable, Pronounceable{
     protected String name;

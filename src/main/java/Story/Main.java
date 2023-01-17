@@ -2,8 +2,10 @@ package Story;
 
 import Characters.Alice;
 import Characters.They;
-import NonAnimals.*;
-import Enum.*;
+import Enum.EnumLocation;
+import NonAnimals.Head;
+import NonAnimals.Phenonemon;
+import NonAnimals.Smile;
 public class Main {
     public static void main(String[] args) {
         Alice a = new Alice("она");

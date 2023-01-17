@@ -1,0 +1,11 @@
+./src/main/java/NonAnimals/Smile.java
+./src/main/java/NonAnimals/Head.java
+./src/main/java/NonAnimals/Phenonemon.java
+./src/main/java/Story/Main.java
+./src/main/java/Characters/Characters.java
+./src/main/java/Characters/They.java
+./src/main/java/Characters/Alice.java
+./src/main/java/Interfaces/Nameable.java
+./src/main/java/Interfaces/Describable.java
+./src/main/java/Interfaces/Pronounceable.java
+./src/main/java/Enum/EnumLocation.java

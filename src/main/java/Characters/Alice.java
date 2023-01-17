@@ -42,9 +42,9 @@ public class Alice extends Characters{
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         if (!super.equals(o)) return false;
-        Alice mumitroll = (Alice) o;
-        return Objects.equals(name, mumitroll.name) &&
-                Objects.equals(description, mumitroll.description);
+        Alice alice = (Alice) o;
+        return Objects.equals(name, alice.name) &&
+                Objects.equals(description, alice.description);
     }
 
     @Override
